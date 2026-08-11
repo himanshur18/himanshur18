@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Himanshu 👋
 
-<!--
-**himanshur18/himanshur18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Student | Python Developer | Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+I'm a Computer Science student specializing in AI & ML, interested in building and deploying real-world machine learning applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Python
+- Machine Learning
+- Scikit-learn
+- Pandas & NumPy
+- SQL
+- Streamlit
+- FastAPI
+- Git & GitHub
+- Docker
+
+## 🚀 Featured Projects
+
+### 💳 CreditWise — Loan Approval Predictor
+End-to-end ML application for loan approval prediction.
+
+🔗 [Live Demo](https://creditwise-loan-predictor-himanshur18.streamlit.app/)  
+🔗 [GitHub Repository](https://github.com/himanshur18/creditwise-loan-approval)
+
+### 🛡️ DigiRaksha
+UPI fraud detection project.
+
+### 🛒 Shop Smart
+Machine learning-based shopping project.
+
+## 🎯 Currently Learning
+
+- Advanced Machine Learning
+- Deep Learning
+- Computer Vision
+- MLOps
+
+## 📫 Connect With Me
+
+- GitHub: [@himanshur18](https://github.com/himanshur18)
