@@ -30,6 +30,9 @@ UPI fraud detection project.
 ### 🛒 Shop Smart
 Machine learning-based shopping project.
 
+🔗 [Live Demo](https://shopsmart-predictor.streamlit.app)
+🔗 [GitHub Repository](https://github.com/himanshur18/shopsmart-purchase-predictor)
+
 ## 🎯 Currently Learning
 
 - Advanced Machine Learning
