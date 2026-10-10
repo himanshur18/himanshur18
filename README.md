@@ -32,9 +32,6 @@ A manufacturing analytics project combining Power BI, SQL, PostgreSQL, Python, a
 ### 💳 CreditWise — Loan Approval Predictor
 A machine learning application that predicts loan approval outcomes.
 
-### 🛡️ DigiRaksha — UPI Fraud Detection
-A project focused on identifying potentially fraudulent UPI payment details.
-
 ### 🛒 Shop Smart
 A machine learning-based shopping project.
 
