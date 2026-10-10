@@ -44,6 +44,7 @@ A machine learning-based shopping project.
 
 ## 🤝 Connect With Me
 
-- GitHub: [@himanshur18](https://github.com/himanshur18)
+- GitHub: (https://github.com/himanshur18)
+- LinkedIn : (https://www.linkedin.com/in/himanshu-ranjan-018vk)
 
 I'm always interested in learning, collaborating, and building useful projects.
