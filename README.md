@@ -1,45 +1,52 @@
 # Hi, I'm Himanshu 👋
 
-### AI/ML Student | Python Developer | Machine Learning Enthusiast
+### Aspiring Data Analyst | Python Developer | AI & ML Enthusiast
 
-I'm a Computer Science student specializing in AI & ML, interested in building and deploying real-world machine learning applications.
+I'm a Computer Science student specializing in Artificial Intelligence and Machine Learning, passionate about turning data into meaningful insights and building practical applications.
 
-## 🛠️ Skills
+- 📊 Interested in Data Analytics, Business Intelligence, and Machine Learning
+- 🐍 Working with Python, SQL, Pandas, and NumPy
+- 📈 Building dashboards using Power BI
+- ⚙️ Developing APIs with FastAPI and PostgreSQL
+- 🚀 Continuously learning and building real-world projects
 
-- Python
-- Machine Learning
-- Scikit-learn
-- Pandas & NumPy
-- SQL
-- Streamlit
-- FastAPI
-- Git & GitHub
-- Docker
+## 🛠️ Skills & Technologies
+
+**Programming:** Python, SQL, HTML, CSS, JavaScript
+
+**Data Analytics:** Power BI, Pandas, NumPy, Matplotlib, Excel
+
+**Databases:** PostgreSQL, MySQL
+
+**Backend & Tools:** FastAPI, Streamlit, Git, GitHub, VS Code
+
+**Machine Learning:** Scikit-learn, NumPy, Pandas, TF-IDF
 
 ## 🚀 Featured Projects
 
+### 🏭 Manufacturing Intelligence Dashboard
+A manufacturing analytics project combining Power BI, SQL, PostgreSQL, Python, and FastAPI to analyze production output, defects, downtime, and machine performance.
+
+🔗 [View Project on GitHub](https://github.com/himanshur18/manufacturing-intelligence-dashboard)
+
 ### 💳 CreditWise — Loan Approval Predictor
-End-to-end ML application for loan approval prediction.
+A machine learning application that predicts loan approval outcomes.
 
-🔗 [Live Demo](https://creditwise-loan-predictor-himanshur18.streamlit.app/)  
-🔗 [GitHub Repository](https://github.com/himanshur18/creditwise-loan-approval)
-
-### 🛡️ DigiRaksha
-UPI fraud detection project.
+### 🛡️ DigiRaksha — UPI Fraud Detection
+A project focused on identifying potentially fraudulent UPI payment details.
 
 ### 🛒 Shop Smart
-Machine learning-based shopping project.
+A machine learning-based shopping project.
 
-🔗 [Live Demo](https://shopsmart-predictor.streamlit.app)
-🔗 [GitHub Repository](https://github.com/himanshur18/shopsmart-purchase-predictor)
+## 📚 Currently Learning
 
-## 🎯 Currently Learning
+- Data Analytics and Business Intelligence
+- Advanced SQL and Power BI
+- Statistics and Data Visualization
+- Machine Learning
 
-- Advanced Machine Learning
-- Deep Learning
-- Computer Vision
-- MLOps
-
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
 - GitHub: [@himanshur18](https://github.com/himanshur18)
+
+I'm always interested in learning, collaborating, and building useful projects.
